@@ -2,7 +2,7 @@
 
 🎓 I'm a Computer Science student at the **University of Ruhuna**, passionate about software development and problem-solving.  
 💻 I enjoy building projects using **C**, **Java**, and **MySQL** and I love learning new technologies every day.  
-🚀 Currently exploring **Software Engineering**, and **Web Development**.
+🚀 Currently exploring **Software Engineering**, and **Data Analytics**.
 
 ---
 
