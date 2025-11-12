@@ -1,51 +1,17 @@
-# 👋 Hi there, I'm Pasan Madushanka!
+<h1 align="center">Hi 👋, I'm Pasan Madushanka</h1>
+<h3 align="center">I'm a Computer Science student at the University of Ruhuna, passionate about software development and problem-solving. I enjoy building projects using C, Java, and MySQL and I love learning new technologies every day. Currently exploring Software Engineering, and Web Development.</h3>
 
-🎓 I'm a Computer Science student at the **University of Ruhuna**, passionate about software development and problem-solving.  
-💻 I enjoy building projects using **C**, **Java**, and **MySQL** — and I love learning new technologies every day.  
-🚀 Currently exploring **Data Structures & Algorithms**, **Software Engineering**, and **Web Development**.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pasan1113&label=Profile%20views&color=0e75b6&style=flat" alt="pasan1113" /> </p>
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## 🧠 Tech Stack & Tools
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pasan1113&show_icons=true&locale=en&layout=compact" alt="pasan1113" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pasan1113&show_icons=true&locale=en" alt="pasan1113" /></p>
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pasan1113&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasan1113&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pasan1113&theme=tokyonight)
-
----
-
-## 🏗️ Featured Projects
-
-- 🎯 [Attendance Manager (Java + MySQL)](https://github.com/pasanmadushanka/attendance-manager)  
-  A desktop app to manage student attendance efficiently.  
-
-- 💡 [Data Structures Assignments](https://github.com/pasanmadushanka/DSA-assignments)  
-  My practical work on stacks, queues, and linked lists using C.  
-
-- 🌍 [Travel Blog Website](https://github.com/pasanmadushanka/travel-blog)  
-  A simple and elegant web app to share travel stories and experiences.
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pasan-madushanka-556489239)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)  
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=pasanmadushanka&color=blue&style=flat-square)
-
-> ✨ “Keep learning, keep coding, and keep improving.”
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pasan1113&" alt="pasan1113" /></p>
