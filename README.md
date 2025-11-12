@@ -20,7 +20,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pasanmadushanka&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pasan1113&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pasanmadushanka&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pasanmadushanka&theme=tokyonight)
 
