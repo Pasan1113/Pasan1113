@@ -16,7 +16,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Pasan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pasanmadushanka&show_icons=true&theme=tokyonight)
+![Pasan Madushanka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pasanmadushanka&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pasanmadushanka&layout=compact&theme=tokyonight)
 
 ---
