@@ -1,7 +1,11 @@
-###Hi 👋, I'm Pasan Madushanka
+# 👋 Hi there, I'm Pasan Madushanka!
+
 🎓 I'm a Computer Science student at the **University of Ruhuna**, passionate about software development and problem-solving.  
 💻 I enjoy building projects using **C**, **Java**, and **MySQL** — and I love learning new technologies every day.  
 🚀 Currently exploring **Data Structures & Algorithms**, **Software Engineering**, and **Web Development**.
+
+---
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pasan1113&label=Profile%20views&color=0e75b6&style=flat" alt="pasan1113" /> </p>
 
